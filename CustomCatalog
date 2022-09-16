@@ -1,35 +1,24 @@
 [
   {
-    "id":"KLAVIYO-TSHIRT1",
-    "title":"Classic Klaviyo T-Shirt 1",
-    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
-    "price":10,
-    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-    "categories":["apparel","t-shirt","new-arrival","swag"],
+    "id":"1234",
+    "title":"French Wines & Fermentation",
+    "link":"https://tyler-berman-test-account.myshopify.com/products/french-wines-fermentation",
+    "description":"Sign up to learn about fermentation while sipping on French wines.",
+    "price":100,
+    "image_link":"https://cdn.shopify.com/s/files/1/0549/3361/8942/products/IMG_2424_750x.jpg?v=1648047805",
+    "categories":["group-activity","food"],
     "inventory_quantity":25,
     "inventory_policy":1
   },
   {
-    "id":"KLAVIYO-TSHIRT2",
-    "title":"Classic Klaviyo T-Shirt 2",
-    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
-    "price":10,
-    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-    "categories":["apparel","t-shirt","new-arrival","swag"],
+    "id":"5678",
+    "title":"Gnocchi Gnight",
+    "link":"https://tyler-berman-test-account.myshopify.com/products/gnocchi-gnight",
+    "description":"Learn about the art of gnocchi making.",
+    "price":80,
+    "image_link":"https://cdn.shopify.com/s/files/1/0549/3361/8942/products/unnamed-3_750x.jpg?v=1633532159",
+    "categories":["group-activity","food"],
     "inventory_quantity":30,
-    "inventory_policy":1
-  },
-  {
-    "id":"KLAVIYO-TSHIRT3",
-    "title":"Classic Klaviyo T-Shirt 3",
-    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
-    "price":10,
-    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-    "categories":["apparel","t-shirt","new-arrival","swag"],
-    "inventory_quantity":0,
     "inventory_policy":1
   }
 ]
